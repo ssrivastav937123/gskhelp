@@ -18,7 +18,7 @@ Availability:
 
 ---
 
-![Cloud/Edge](https://img.shields.io/badge/Cloud%2FEdge-blue?style=flat) &nbsp; ![Connectivity]([https://img.shields.io/badge/Connectivity-yellow?style=flat&labelColor=yellow&color=yellow&logoColor=black](https://github.com/ssrivastav937123/gskhelp/blob/main/aaaaa.png)) &nbsp; ![IAM](https://img.shields.io/badge/IAM-orange?style=flat&color=orange)
+![Cloud/Edge](https://img.shields.io/badge/Cloud%2FEdge-blue?style=flat)
 
 
 ## V2.0.0 – Container Insights (AKS & GKE)
