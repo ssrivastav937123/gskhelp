@@ -18,8 +18,8 @@ Availability:
 
 ---
 
-![Cloud/Edge](https://img.shields.io/badge/Cloud%2FEdge-blue?style=flat) &nbsp; ![Connectivity](https://img.shields.io/badge/Connectivity-yellow?style=flat&labelColor=yellow&color=yellow&logoColor=black) &nbsp; ![IAM](https://img.shields.io/badge/IAM-orange?style=flat&color=orange)
-https://github.com/ssrivastav937123/gskhelp/blob/main/aaaaa.png
+![Cloud/Edge](https://img.shields.io/badge/Cloud%2FEdge-blue?style=flat) &nbsp; ![Connectivity]([https://img.shields.io/badge/Connectivity-yellow?style=flat&labelColor=yellow&color=yellow&logoColor=black](https://github.com/ssrivastav937123/gskhelp/blob/main/aaaaa.png)) &nbsp; ![IAM](https://img.shields.io/badge/IAM-orange?style=flat&color=orange)
+
 
 ## V2.0.0 – Container Insights (AKS & GKE)
 **[10 Jul 2026] - NEW**
